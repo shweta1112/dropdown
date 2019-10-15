@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.dropdown {
+  width: 300px;
+}
+.input {
+  width: 296px;
+  height: 25px;
+}
+.list {
+  width: 300px;
+  background-color: #e4f1f2;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.country-name:active {
+  background-color: rgb(133, 200, 231);
+}
